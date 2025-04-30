@@ -4,6 +4,5 @@ public class HelloWorld {
         System.out.println("hi world");
         System.out.println("newqa");
         System.out.println("Anu hII");
-        System.out.println("Hii release owl@123");
     }
 }
